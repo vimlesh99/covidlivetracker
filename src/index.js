@@ -6,7 +6,6 @@ import CallData from "./Apcall"
 ReactDOM.render(
   <>
   <Covid />
-  {/* <CallData /> */}
   </>,
   document.getElementById("root")
 )
